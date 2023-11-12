@@ -1,12 +1,12 @@
 ---
-layout: projects.njk
-title: Projects
-date: 2021-01-01
-permalink: /projects/index.html
-metaDescription: A sample Projects page
-subtitle: This is the page where all projects will live
 emoji: 💻
+layout: projects.njk
+title: Project
+subtitle: Information about our project.
+metaDescription: A sample Projects page
+date: 2023-11-12T04:44:02.245Z
+permalink: /projects/index.html
 eleventyNavigation:
-  key: Projects
+  key: Project
   order: 3
 ---

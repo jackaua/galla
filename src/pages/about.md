@@ -24,8 +24,6 @@ Our Roblox alternate account generator service offers plans for everyone.
 * A﻿dvanced support.
 * P﻿remium chat, drops and giveaways.
 
-
-
 W﻿ant to buy premium plan, our use the free plan? [Join at our discord server](https://discord.gg/DbrbZ9Nntg)
 
-![Fern in Hand]( "Fern in Hand")
+![a](/src/assets/img/design-sem-nome.png "a")

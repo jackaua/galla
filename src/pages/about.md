@@ -1,31 +1,31 @@
 ---
-title: About Me
+title: Pricing
 subtitle: ""
 metaDescription: This page is all about me
-date: 2017-01-01T00:00:00.000Z
-permalink: /about/index.html
+date: 2023-11-12T04:54:08.331Z
+permalink: /pricing/
 eleventyNavigation:
-  key: About
+  key: Pricing
   order: 1
 ---
+Our Roblox alternate account generator service offers plans for everyone.
 
-### What is Fernfolio?
-An [Eleventy](https://www.11ty.io/) theme designed to simplify the process of creating a beautiful portfolio and blog. Tightly integrated with [Netlify CMS](https://www.netlifycms.org/) for flexible, Git-powered content management.
+### F﻿ree plan (0.00$)
 
-### Why create this?
+* 2023, dump and offsale accounts are avaiable for free.
+* **5-minute cooldown** between each generation.
+* Access to almost all of our Discord servers.
 
-**Reason #1:** I wanted a portfolio that was simple, fast, accessible, and integrated with a git-powered cms. Existing templates didn't perfectly fit my needs, so I decided to build my own template.
+### P﻿remium plan (5.00$)
 
-**Reason #2:** I wanted to learn more about [Eleventy](https://www.11ty.dev/) and static site generators in general. Building Fernfolio was a good excuse to dive deeper on that topic.
+* All free accounts, 2010 accounts, and 5-letter accounts avaiable on **premium** generator.
+* M﻿ore restocks.
+* **1-minute cooldown** between each generation.
+* A﻿dvanced support.
+* P﻿remium chat, drops and giveaways.
 
-### How do I edit content?
-Once your site is deployed and configured, add `/admin` to the end of the url (not using localhost) and hit refresh. From there, you should be able to login and see see the content management dashboard. You should be able to change most content here (e.g. page text, images, logo, articles, projects, etc.).
 
-### Further customizations
-If you want to take your customizations further, you will need to modify the project source code. Some customizations, like changing theme colors and fonts, are straightforward (those can be modified in the `variables.scss` file). Other customizations will require more in-depth solutions.
 
-If you get stuck or just have a question, feel free to create a [Github issue](https://github.com/TylerMRoderick/fernfolio-11ty-template/issues) and I will try to point you in the right direction.
+W﻿ant to buy premium plan, our use the free plan? [Join at our discord server](https://discord.gg/DbrbZ9Nntg)
 
-Thanks for checking out Fernfolio 👋 - [Tyler M. Roderick](https://www.tylerroderick.com/)
-
-![Fern in Hand](/src/assets/img/fern-forest.jpeg "Fern in Hand")
+![Fern in Hand]( "Fern in Hand")

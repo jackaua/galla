@@ -26,4 +26,4 @@ Our Roblox alternate account generator service offers plans for everyone.
 
 W﻿ant to buy premium plan, our use the free plan? [Join at our discord server](https://discord.gg/DbrbZ9Nntg)
 
-![a](https://cdn.discordapp.com/attachments/1173114753980309604/1173114778688958505/Design_sem_nome.png?ex=6562c746&is=65505246&hm=a63507188665e95f64eff193b862a5324e53f6c1475b245c474755276ff948ff& "a")
+![a]( "a")
